@@ -331,6 +331,9 @@ The cheatsheet for how traditional HTN terminology maps to BAE is
 
 ## Compatibility
 
-| bevy        | bevy_bae |
-|-------------|------------------------|
-| 0.17        | 0.1                    |
+| `bevy` | `bevy_bae` |
+|--------|------------|
+| 0.19   | 0.2       |
+| 0.17   | 0.1        |
+
+The `main` branch uses the [Bevy 0.19 fork of `bevy_mod_props`](https://github.com/AndreRoelofs/bevy_mod_props).
